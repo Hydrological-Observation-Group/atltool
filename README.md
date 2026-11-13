@@ -1,2 +1,11 @@
 # atltool
-Satellite altimetry toolkit for supporting base satellite altimetry data processing
+Satellite altimetry processing toolkit for inland hydrological research.     
+
+
+### TODO
+Merge radar-altimetry-tool, swot-tool, and laser-altimetry-tool into atltool repo.   
+
+
+
+
+
